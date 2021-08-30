@@ -3,7 +3,7 @@
 - 🌱 Estudando Python, HTML5, CSS5
 
  <div>
-  <a href="https://beacons.ai/vitormarinheiro1">
+  <a href="https://github.com/vitormarinheiro1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormarinheiro1&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinheiro1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
