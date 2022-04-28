@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando Python, HTML5, CSS5
+- 🌱 Estudando Python, HTML5, CSS3, JavaScript e Cloud.
 
  <div>
   <a href="https://github.com/vitormarinheiro1">
