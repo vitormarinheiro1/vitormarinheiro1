@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando Python, HTML5, CSS3, JavaScript e Cloud.
+- 🌱 Desenvolvedor ReactJS, AngularJS, Python, Java, NodeJS, Spring boot e SASS.
 
  <div>
   <a href="https://github.com/vitormarinheiro1">
