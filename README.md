@@ -1,6 +1,6 @@
 ### Olá, me chamo Vitor Marinheiro. Seja bem-vindo. 👋
 
-- 🌱 Desenvolvedor ReactJS, AngularJS, Python, Java, NodeJS, Spring boot e SASS.
+- 💻 Desenvolvedor ReactJS, AngularJS, Python, Java, NodeJS, Spring boot e SASS.
 
  <div>
   <a href="https://github.com/vitormarinheiro1">
