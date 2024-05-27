@@ -1,6 +1,6 @@
 ### Olá, me chamo Vitor Marinheiro. Seja bem-vindo. 👋
 
-- 💻 Desenvolvedor Front-end.
+- 💻 Desenvolvedor Fullstack.
 
  <div>
   <a href="https://github.com/vitormarinheiro1">
