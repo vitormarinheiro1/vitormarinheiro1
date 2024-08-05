@@ -23,3 +23,5 @@
   <a href="https://www.instagram.com/marinheiroz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitormarinheiro9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+
+ <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitormarinheiro1&theme=github_dark&bg_color=101823&title_color=7A7DDE&hide_border=true&show_icons=true&card_width=320&custom_title=TIME%20CODING%20⌛" />
