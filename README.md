@@ -1,6 +1,6 @@
 ### Olá, me chamo Vitor Marinheiro. Seja bem-vindo. 👋
 
-- 💻 Desenvolvedor Fullstack | PHP | Laravel | MySQL | ReactJS | JavaScript
+- 💻 Desenvolvedor FullStack | PHP | JavaScript / Laravel / React
 
  <div>
   <a href="https://github.com/vitormarinheiro1">
