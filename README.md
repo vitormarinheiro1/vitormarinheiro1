@@ -1,6 +1,6 @@
 ### Olá, me chamo Vitor Marinheiro. Seja bem-vindo. 👋
 
-- 💻 Desenvolvedor FullStack | PHP | JavaScript / Laravel / React
+- 💻 Desenvolvedor Python | Flask | JavaScript | React
 
  <div>
   <a href="https://github.com/vitormarinheiro1">
