@@ -36,6 +36,5 @@ Busco sempre aplicar boas práticas, testes, arquitetura limpa, automação e pr
 
 ## 📫 Contato
 
-[![LinkedIn]](https://www.linkedin.com/in/vitor-marinheiro-590a461ba/)
-[![Email](https://img.shields.io/badge/Email-vitormarinheiro9%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitormarinheiro9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vitormarinheiro1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitormarinheiro1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor%20Marinheiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinheiro-590a461ba/)
+[![Email](https://img.shields.io/badge/Email-vitormarinheiro9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitormarinheiro9@gmail.com)
