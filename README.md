@@ -1,26 +1,41 @@
-### Olá, me chamo Vitor Marinheiro. Seja bem-vindo. 👋
+<h1 align="center">👋 Olá, eu sou Vitor Marinheiro</h1>
 
-- 💻 Desenvolvedor Python | Flask | JavaScript | React
+<p align="center">
+  <strong>Desenvolvedor de Software @ G4F</strong><br/>
+  Python • Django • React • TypeScript
+</p>
 
- <div>
-  <a href="https://github.com/vitormarinheiro1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormarinheiro1&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormarinheiro1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Vitor-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Vitor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Vitor-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/vitor-marinheiro-590a461ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:vitormarinheiro9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+---
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor de software focado em backend com Python e Django, criando soluções escaláveis, seguras e com qualidade de código.  
+Atuo também no ecossistema JavaScript/TypeScript, especialmente com React e Next.js, desenvolvendo interfaces modernas e performáticas.
+
+Busco sempre aplicar boas práticas, testes, arquitetura limpa, automação e processos que tornam o software mais eficiente e confiável.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+### **Backend**
+- Python • Django • Django REST Framework  
+- FastAPI • Celery • Redis  
+- PostgreSQL • MySQL  
+
+### **Frontend**
+- React • Next.js  
+- TypeScript • TailwindCSS  
+
+### **DevOps**
+- Docker • Docker Compose  
+- GitHub Actions  
+- Railway • Render • Vercel  
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marinheiro-590a461ba/)
+[![Email](https://img.shields.io/badge/Email-vitormarinheiro9%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitormarinheiro9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vitormarinheiro1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitormarinheiro1)
